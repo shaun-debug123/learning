@@ -21,7 +21,7 @@ label = Label(window, textvariable=equation_label, font=('consolas',20), bg="whi
 label.pack()
 
 frame = Frame(window)
-frame.pack()
+frame.pack()    
 
 
 window.mainloop()
